@@ -4,12 +4,6 @@
 
 # ![Post 1 image](.images/banner.png)
 
-<p align="center">
-  <!-- <img alt="MIT license" src="https://img.shields.io/github/license/paulojanai/weather-forecast-app"> -->
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/paulojanai/weather-forecast-app">
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/paulojanai/weather-forecast-app">
-</p>
-
 >
 
 ## 💻 Project
@@ -59,5 +53,5 @@ You are totally allowed to contribute with this project. To do that, fork this r
 > >
 
 <h4 align="center">
-    Made by <a href="https://www.linkedin.com/in/paulojanai/" style="color: #00a0df" target="_blank">Paulo Janai</a> and <a href="https://www.linkedin.com/in/antoniorrm/" style="color: #00a0df" target="_blank">Antonio Raimundo</a> 
+    Made by <a href="https://www.linkedin.com/in/pamella-uwase-963329285/" style="color: #00a0df" target="_blank">Uwase Pamella</a> 
 </h4>
